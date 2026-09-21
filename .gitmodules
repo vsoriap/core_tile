@@ -23,10 +23,7 @@
 	branch = ft/cacheline_64b
 [submodule "riscv-tests"]
 	path = riscv-tests
-	url = ../../../verification/riscv-tests.git
-[submodule "rtl/core/sargantana"]
-	path = rtl/core/sargantana
-	url = ../../cores/sargantana.git
+	url = git@github.com:bsc-loca/riscv-tests.git
 [submodule "rtl/dcache"]
 	path = rtl/dcache
 	url = ../l1_d-caches/hpdcache.git
