@@ -28,3 +28,6 @@
 [submodule "simulator/bsc-dm"]
 	path = simulator/bsc-dm
 	url = git@github.com:bsc-loca/bsc-dm.git
+[submodule "rtl/core/drago"]
+	path = rtl/core/drago
+	url = git@github.com:bsc-loca/drago.git
