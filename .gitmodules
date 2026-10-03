@@ -1,9 +1,6 @@
 [submodule "rtl/mmu"]
 	path = rtl/mmu
 	url = https://github.com/bsc-loca/mmu.git
-[submodule "tb/tb_torture/riscv-torture"]
-	path = tb/tb_torture/riscv-torture
-	url = https://github.com/ucb-bar/riscv-torture.git
 [submodule "simulator/reference/riscv-isa-sim"]
 	path = simulator/reference/riscv-isa-sim
 	url = https://github.com/bsc-loca/riscv-isa-sim.git
@@ -22,9 +19,6 @@
 [submodule "riscv-tests"]
 	path = riscv-tests
 	url = https://github.com/bsc-loca/riscv-tests.git
-[submodule "rtl/dcache"]
-	path = rtl/dcache
-	url = https://github.com/bsc-loca/cv-hpdcache.git
 [submodule "simulator/bsc-dm"]
 	path = simulator/bsc-dm
 	url = https://github.com/bsc-loca/bsc-dm.git
