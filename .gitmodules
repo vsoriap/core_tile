@@ -13,9 +13,6 @@
 [submodule "rtl/common_cells"]
 	path = rtl/common_cells
 	url = https://github.com/pulp-platform/common_cells.git
-[submodule "rtl/icache"]
-	path = rtl/icache
-	url = https://github.com/bsc-loca/instruction_cache.git
 [submodule "riscv-tests"]
 	path = riscv-tests
 	url = https://github.com/bsc-loca/riscv-tests.git
